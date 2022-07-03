@@ -45,8 +45,8 @@
                 raise_layer {
                         bindings = <
 &trans  &kp ESC  &kp PIPE  &kp PRCNT &kp AMPS &kp TILDE          &trans  &trans &trans &trans &trans   &trans  
-&trans  &caps_word &kp ASTRK  &kp SLASH &kp BSLH &kp QMARK         &trans &trans &trans &trans &trans    &trans  
-&trans  &kp CAPS    &kp PLUS  &kp MINUS &kp CARET &kp DOLLAR           &trans &trans &trans &trans &trans    &trans  
+&trans  &caps_word &kp ASTRK  &kp SLASH &kp BSLH &kp QMARK         &trans &trans &trans &kp PG_UP &trans    &trans  
+&trans  &kp CAPS    &kp PLUS  &kp MINUS &kp CARET &kp DOLLAR           &trans &trans &kp HOME &kp PG_DN  &kp END    &trans  
 &mt LCTRL TAB  &kp LSHFT &lt  1 SPACE    &lt  2 RET    &kp INS &kp LGUI  
 
                         >;
