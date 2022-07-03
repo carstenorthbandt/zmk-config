@@ -64,7 +64,7 @@
 
 &trans  &kp ESC  &kp PIPE  &kp PRCNT &kp AMPS &kp TILDE          &trans  &trans &trans &trans &trans   &trans  
 &trans  &caps_word &kp ASTRK  &kp SLASH &kp BSLH &kp QMARK         &trans &trans &trans &trans &trans    &trans  
-&trans  &kp CAPS    &kp PLUS  &kp MINUS &kp &kp CARET           &trans &trans &trans &trans &trans    &trans  
+&trans  &kp CAPS    &kp PLUS  &kp MINUS &kp CARET &kp DOLLAR           &trans &trans &trans &trans &trans    &trans  
 
 //&trans  &kp ESC  &kp PIPE  &kp PRCNT &kp AMPS &kp TILDE          &trans  &trans &trans &trans &trans   &trans  
 //&trans  /*&caps_word*/ &kp PLUS   &kp ASTRK  &kp SLASH &kp BSLH &kp QMARK         &trans &trans &trans &trans &trans    &trans  
